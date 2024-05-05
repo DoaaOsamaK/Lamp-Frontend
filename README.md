@@ -18,7 +18,7 @@ This repository contains the code for a smart lamp that I designed. The lamp can
 - **CSS**: For styling the web interface.
 - **JavaScript**: For the toggle functionality.
 
-  ## ✅ Demo: 
+## ✅ Demo: https://doaaosamak.github.io/Lamp-Frontend/
 
 ## ✅ Contact
 If you have any questions, feel free to reach out to me at doaaosamakhalaf@gmail.com.
